@@ -2,38 +2,38 @@
 /* CSS Document */
 
 body,td,th,p{
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  color: #333;
-  line-height: 1.5;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height: 1.5;
 }
 body {
-  background-color: #fdfdfd;
-  margin: 0;
-  position:relative;
+	background-color: #fdfdfd;
+	margin: 0;
+	position:relative;
 }
 ul, li {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.0em;
-  color: #333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.0em;
+	color: #333;
 }
 a {
-  color: #fff;
-  text-decoration: none;
+	color: #fff;
+	text-decoration: none;
 }
 a:hover, a:focus {
-  color: #3397db;
-  text-decoration: none;
+	color: #3397db;
+	text-decoration: none;
 }
 a img{
-  border: none 0px #fff;
+	border: none 0px #fff;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0 0 20px;
 }
 article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-  display: block;
+	display: block;
 }
 #maincontent {
   background-color: #f3f3f3;
@@ -230,7 +230,7 @@ nav h1 a {
   line-height: 1.1;
 }
 #restaurant-img {
-  width: 100%;
+	width: 100%;
 }
 #restaurant-address {
   font-size: 1.2em;
